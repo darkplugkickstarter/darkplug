@@ -72,9 +72,22 @@ The automation sequence can be completely customized in firmware.
   <img src="https://github.com/darkplugkickstarter/darkplug/blob/main/images/code_3.png" weight="436" height="255">
 
 #### Working Demonstration:
-<img src="https://github.com/darkplugkickstarter/darkplug/blob/main/images/keylogger.gif" weight="" height="">
+* [Keylogger](https://github.com/darkplugkickstarter/darkplug/blob/main/examples/keylogger_demo.py)
+
+  <img src="https://github.com/darkplugkickstarter/darkplug/blob/main/images/keylogger_demo.gif" weight="" height="">
+  
+* [Open Application - Camera](https://github.com/darkplugkickstarter/darkplug/blob/main/examples/run_camera_app.py)
+
+  <img src="https://github.com/darkplugkickstarter/darkplug/blob/main/images/launch_apps.gif" weight="" height="">
+
+* [Excel Automation](https://github.com/darkplugkickstarter/darkplug/blob/main/examples/excel_automation.py)
+
+  <img src="https://github.com/darkplugkickstarter/darkplug/blob/main/images/excel_automate_demo.gif" weight="" height="">
+
+[More examples...](https://github.com/darkplugkickstarter/darkplug/blob/main/examples)
 
 ### Resources
+- [DarkPlug Schematic](https://github.com/darkplugkickstarter/darkplug/blob/main/Documents/DARKPLUG_SCH.pdf)
 - [RP2350 Datasheet](https://pip-assets.raspberrypi.com/categories/1214-rp2350/documents/RP-008373-DS-2-rp2350-datasheet.pdf)
 - [Getting Started with Pico and CircuitPython](https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/overview)
 - [CircuitPython Documentation](https://docs.circuitpython.org/_/downloads/en/latest/pdf/)
